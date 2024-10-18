@@ -26,7 +26,7 @@ In this project, I analysed data from the "coffee_db" database, which includes t
 
 🔷 Leveraged window functions for ranking and aggregated insights.
 
-###3. Project Outcome:
+### 3. Project Outcome:
 🎯 Improved data integrity and enhanced customer profiling.
 
 🎯 Gained clear visibility on product stock and pricing trends.
