@@ -17,14 +17,20 @@ In this project, I analysed data from the "coffee_db" database, which includes t
 
 ### 2. Technical Skills Used:
 🔷 Created primary keys and foreign keys for table relationships.
+
 🔷 Handled missing data by filling empty values in the customer table.
+
 🔷 Utilized predefined functions like CONCAT(), COUNT(), ROUND() for data manipulation.
+
 🔷 Implemented subqueries for complex data retrieval.
+
 🔷 Leveraged window functions for ranking and aggregated insights.
 
 ###3. Project Outcome:
 🎯 Improved data integrity and enhanced customer profiling.
+
 🎯 Gained clear visibility on product stock and pricing trends.
+
 🎯 Uncovered actionable insights to optimize customer engagement and sales strategies.
 
 Link to Dataset - https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset
