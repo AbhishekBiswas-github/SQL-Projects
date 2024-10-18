@@ -1,6 +1,6 @@
 # Contents:
 
-## 1. Orders Worksheet:
+### 1. Orders Worksheet:
 
 * Order ID: A unique identifier for each coffee order.
 * Order Date: The date when the order was placed.
@@ -8,7 +8,7 @@
 * Product ID: A unique identifier for each coffee product.
 * Quantity: The quantity of the coffee product ordered.
 
-## 2. Customers Worksheet:
+### 2. Customers Worksheet:
 
 * Customer ID: A unique identifier for each customer.
 * Customer Name: The name of the customer.
@@ -16,7 +16,7 @@
 * Phone Number: Another contact detail for customers.
 * And more: Explore a wide range of customer attributes for segmentation and analysis.
 
-## 3.Products Worksheet:
+### 3. Products Worksheet:
 
 * Product ID: A unique identifier for each coffee product.
 * Coffee Type: The type or blend of coffee, such as Arabica or Robusta.
