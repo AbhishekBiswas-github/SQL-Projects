@@ -6,9 +6,13 @@ In this project, I analysed data from the "coffee_db" database, which includes t
 
 ### 1. Project Insights:
 🔶 Identified customers without email and phone numbers for better CRM strategies.
+
 🔶 Analysed the total stock of every coffee type to improve inventory management.
+
 🔶 Created a coffee price breakdown by type with percent contribution for pricing insights.
+
 🔶 Explored yearly order distribution with total orders and contribution percentage to track sales performance.
+
 🔶 Highlighted the top 5 active customers and ordered products for targeted marketing.
 
 ### 2. Technical Skills Used:
